@@ -1,0 +1,1 @@
+Projeto desenvolvido no curso de desenvolvimento Web da Digital Innovation One. O objetivo inicial era clonar a páginal de login do instagram mostrando a foto e o botão de acesso, porém, com intuito de treinar mais HTML e CSS optei por clonar a página inicial mostrando a solicitação de login com área de usuário, senha, botão de entrar, acessar pelo Facebook e esqueci a senha.
